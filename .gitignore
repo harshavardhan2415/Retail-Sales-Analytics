@@ -1,6 +1,6 @@
 __pycache__/
 .ipynb_checkpoints/
-
+scripts/import_to_mysql.py
 *.pyc
 
 .vscode/
