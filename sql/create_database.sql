@@ -1,1 +1,2 @@
-SHOW DATABASES;
+CREATE DATABASE indian_ecommerce_analysis;
+USE indian_ecommerce_analysis;
